@@ -14,3 +14,11 @@
 • Found that customers without a card, not active members, those with a tenure of 0 or 10,females, customers with 4 products, those with a credit score of less than 400,        and those aged 45-60 tend to exit the bank more.
 
 • Recommended increasing active members, special promotions for female customers, improving products for churned customers, and targeting older customers with special         offers to reduce churn rates
+
+
+
+## Author
+
+Monish Lalani
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/monish-lalani) 
