@@ -11,9 +11,9 @@
 
 • Used Logistic Regression, Decision Tree, Random Forest, Bagging, Boosting, and Stacking algorithms.
 
-• Found that customers without a card, not active members, those with a tenure of 0 or 10,females, customers with 4 products, those with a credit score of less than 400,        and those aged 45-60 tend to exit the bank more.
+• Found that customers without a card, not active members, those with a tenure of 0 or 10,females, customers with 4 products, those with a credit score of less than 400, and those aged 45-60 tend to exit the bank more.
 
-• Recommended increasing active members, special promotions for female customers, improving products for churned customers, and targeting older customers with special         offers to reduce churn rates
+• Recommended increasing active members, special promotions for female customers, improving products for churned customers, and targeting older customers with special  offers to reduce churn rates
 
 
 
